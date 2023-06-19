@@ -4,9 +4,9 @@ title: |
   | Introduction to Applied Data Science
   | 2022-2023
 author: |
-  | Your Name
-  | your_email@students.uu.nl
-  | http://www.github.com/yourgithubname
+  | Dilayda Arisse
+  | d.arisse@students.uu.nl
+  | http://www.github.com/dilaydaarisse
 date: April 2023
 urlcolor: purple
 linkcolor: purple
