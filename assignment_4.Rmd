@@ -32,8 +32,8 @@ This interpretation will not be graded, but a Github shows the contributors to a
 
 **Question 1.1**: Fill in the __github username__ of the class mate to whose repository you have contributed. 
 
-github username: datascience466 
-Jia Wei Wen 1030612
+Github username: datascience466 
+Jia Wei Wen
 
 ### Part 2: Analyzing various linear models
 
@@ -61,6 +61,7 @@ summary
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+# The group with more than 0 revolution has a smaller mean and median for both the variables, than the mean and median of the 0 revolution. But the max (growth) of more than 0 revolution is higher so countries have grown more than the countries with 0 revolution. 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
@@ -115,7 +116,7 @@ gof_map = c("nobs", "r.squared")
 
 **Question 3.6**: According to this analysis, what is the main driver of economic growth? Why?
 
-...
+# According to this analysis the main driver of economic growth is tradeshare, when growth changes by 1 tradeshare increases by 2.233 (in model 3) and by 1.813 (in model 4), the other variables have less or no effect.
 
 
 **Question 3.7**: In the code chunk below, edit the table such that the cells (including standard errors) corresponding to the variable `treat` have a red background and white text. Make sure to load the `kableExtra` library beforehand.
